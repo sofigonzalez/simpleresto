@@ -1,0 +1,35 @@
+html, body {
+  padding-top: 0px;
+  margin:0;
+  background-color: #fff;
+  font-family: verdana;
+}
+
+.barra-sup{
+    background-color: orange;
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    margin: 0px;
+}
+
+.barra-titulo{
+	float:left;
+	}
+
+.barra-menu{
+	float:right;
+	}
+#contenido{
+	width:100%;
+	height:520px;
+	}
+
+footer#footer{
+	background-color: #CCC;
+	height:30px;
+	padding:5px;
+	margin:0px;
+	color: #fff;
+	text-align:right;
+	}
